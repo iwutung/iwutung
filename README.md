@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iwutung
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and Software Engineering
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
 - 📫 How to reach me: tisopar@gmail.com
 - 🖥 My website: https://www.itsolomon.xyz
